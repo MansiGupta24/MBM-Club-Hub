@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-size: 500%;
+    background: linear-gradient(120deg , rgb(47, 139, 153) 25% , #ffffff 75% );
+    background-image: url(https://www.myfirstcollege.com/wp-content/uploads/2019/04/mbm-engineering-college-mbmec-jodhpur.jpg
+    );
+    background-repeat: no-repeat;
+    background-size: 1400px 900px;
+}
+.page{
+    width: 600px;
+    margin: 20px auto 0 auto;
+}
+h1{
+    padding: 20px;
+    font-family: cursive;
+    text-align: center;
+}
+form#register{
+    margin: 40px;
+}
+.register{
+    background-color: rgba(0,0,0, 0.5);
+    width:100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 1px solid rgba(255);
+    border-radius: 10px;
+    color:#fff;
+    padding-bottom: 5px;
+}
+label{
+    font-size:2opx ;
+    font-family:serif ;
+    padding-bottom: 20px;
+}
+input#name{
+    background-color: #fff;
+    width: 400px;
+    border-radius: 2px;
+    padding: 6px;
+    border:1px solid #ddd;
+}
+input#submit{
+    width:150px;
+    padding: 8px;
+    font-size: medium;
+    font-weight: 500;
+    background-color: rgb(226, 187, 78);
+    right: 450px;
+}
